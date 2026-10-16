@@ -15,7 +15,7 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Datasets, checkpoints, logs and model weights (too big for git)
+# Datasets, checkpoints, logs and model weights
 data/
 checkpoints/
 out/
